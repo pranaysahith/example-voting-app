@@ -1,2 +1,1 @@
-cd /home/ubuntu/test-trx
-
+cd /home/ubuntu/
