@@ -18,7 +18,7 @@ services:
     volumes:
       - ./result:/app
     ports:
-      - "5001:80"
+      - "4040:80"
       - "5858:5858"
     networks:
       - front-tier
